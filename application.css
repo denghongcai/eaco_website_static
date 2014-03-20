@@ -4044,7 +4044,7 @@ footer .nav li, footer .nav--stacked li, footer .nav--banner li, footer .nav--bl
   margin-bottom: -1px; }
 
 .carousel {
-  background: url(bg.png) no-repeat center center;
+  background: url(bg.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
@@ -4172,7 +4172,7 @@ footer .nav li, footer .nav--stacked li, footer .nav--banner li, footer .nav--bl
 .help__banner_img {
   height: 57px;
   width: 100%;
-  background: url(help_banner_img.png) no-repeat center center;
+  background: url(help_banner_img.jpg) no-repeat center center;
   position: absolute;
   top: 50%;
   left: 0;
